@@ -1,2 +1,2 @@
 # networking-labs
-Networking labs, deployment guides, configurations, and troubleshooting notes.
+Networking labs, configurations, deployment guides, and troubleshooting documentation.
